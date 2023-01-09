@@ -10,6 +10,8 @@
     String paddingNum = String.format("%06d", num); // output: 000245
     ```
 
+    [useful resource](https://www.javatpoint.com/java-string-format)
+
 2. Using DecimalFormatSymbols
 
     ```java
